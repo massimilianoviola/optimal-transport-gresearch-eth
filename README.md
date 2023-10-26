@@ -1,4 +1,4 @@
-# Optimal Transport problem- G-Research Quant Finance Challenge at ETH Zurich
+# Optimal Transport problem 🚚 — G-Research Quant Finance Challenge 📊 at ETH Zurich 🇨🇭
 
 Code for the **first place solution** of the **Optimal Transport** problem at the **G-Research Quant Finance Challenge** at ETH Zurich on October 10, 2023. Thanks to my amazing teammates and G-Research!
 
